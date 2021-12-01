@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "218630500873",
+    "firebase_url": "https://seriousnumbergame-default-rtdb.firebaseio.com",
+    "project_id": "seriousnumbergame",
+    "storage_bucket": "seriousnumbergame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218630500873:android:3cd1c525f4f87762a1fed8",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.NumberGame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218630500873-tm3uns2511tf4bkp8v17d9ke41h65skf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo3zU-G4wQ-FnRXw1xTBxCkzLHN63M5dU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218630500873-tm3uns2511tf4bkp8v17d9ke41h65skf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
